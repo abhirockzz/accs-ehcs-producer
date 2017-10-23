@@ -1,0 +1,10 @@
+{
+"instances":1,
+"memory":"1G",
+  "services": [
+    {
+      "name": "cpu-metrics",
+      "type": "OEHCS"
+    }
+  ]
+}
